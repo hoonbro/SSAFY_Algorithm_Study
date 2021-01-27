@@ -1,3 +1,4 @@
+package week2;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
@@ -22,10 +23,11 @@ public class Baek_10971 {
 				map[i][j] = Integer.parseInt(st.nextToken());
 			}
 		}
-
-		for (int i = 0; i < n; i++) {
-			dfs(i, i, map[i][i], 0);
-		}
+		dfs(0, 0, map[0][0], 0);
+		
+//		for (int i = 0; i < n; i++) {
+//			dfs(i, i, map[i][i], 0);
+//		}
 		System.out.println(ans);
 
 	}
