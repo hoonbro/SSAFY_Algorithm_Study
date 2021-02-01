@@ -51,5 +51,4 @@ public class Baek_9466 {
 		visited[now] = false;
 		isCycle[now] = true;
 	}
-
 }

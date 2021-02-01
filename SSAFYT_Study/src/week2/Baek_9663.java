@@ -8,12 +8,12 @@ import java.io.InputStreamReader;
 public class Baek_9663 {
 	static int n;
 	static int answer = 0;
-	static boolean[][] map;
+	static int[] map;
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		n = Integer.parseInt(br.readLine());
-		map = new boolean[n][n];
+		map = new int[n];
 		dfs(0);
 		System.out.println(answer);
 	}
@@ -25,19 +25,21 @@ public class Baek_9663 {
 		}
 		
 		for(int i = 0; i < n; i++) {
-			map[cnt][i] = true;
-			if(check(cnt, i))
-				dfs(cnt+1);	
+			map[cnt] = i;
+			if(check(cnt)) {
+				dfs(cnt+1);
 			}
+		}
 	}
 	
-	static boolean check(int cnt, int j) {
+	static boolean check(int cnt) {
 		for(int i = 0; i < cnt; i++) {
-			if(map[i][j])
+			if(map[i] == map[cnt])
 				return false;
 			
-//			if(map[cnt-(i+1)][j-(i+1)])
-//				return false;
+			//대각선
+			if(Math.abs(i - cnt) == Math.abs(map[i] - map[cnt]))
+				return false;
 		}
 		return true;
 	}
