@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+//Z
 public class Baek_1074 {
 	static int N, R, C, X;
 	static int answer = 0;
