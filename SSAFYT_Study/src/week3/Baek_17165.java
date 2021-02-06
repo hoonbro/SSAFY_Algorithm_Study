@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+//공 모으기
 public class Baek_17165 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
