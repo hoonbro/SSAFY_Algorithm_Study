@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
+//토마토 3차원배열
 public class Baek_7569 {
 	static int N, M, H, green = 0;
 	static int[][][] map;
