@@ -15,14 +15,14 @@ public class Baek_17471 {
 	static ArrayList<ArrayList<Integer>> al;
 
 	//각각의 구가 연결되어있는지 확인
-	static void isCycle(int now, boolean flag) {
+	static void isLinked(int now, boolean flag) {
 		if (check[now] == flag && visited[now])
 			return;
 		visited[now] = true;
 
 		for (int i = 0; i < al.get(now).size(); i++) {
 			if (check[al.get(now).get(i)] == flag && !visited[al.get(now).get(i)])
-				isCycle(al.get(now).get(i), flag);
+				isLinked(al.get(now).get(i), flag);
 		}
 	}
 
@@ -46,11 +46,11 @@ public class Baek_17471 {
 			for (int i = 1; i <= N; i++) {
 				boolean flag = false;
 				if (!check[i] && !visited[i]) {
-					isCycle(i, flag);
+					isLinked(i, flag);
 					a++;
 				} else if (check[i] && !visited[i]) {
 					flag = true;
-					isCycle(i, flag);
+					isLinked(i, flag);
 					b++;
 				}
 			}
