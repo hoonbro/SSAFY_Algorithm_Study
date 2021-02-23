@@ -39,20 +39,23 @@ public class Baek_14503_로봇청소기 {
 		int d = dir;
 		
 		while(true) {
+			//4방위중 청소할 곳이 있는지 확인
 			boolean check = false;
 			
+			//청소하고 2로 초기화
 			if(map[x][y] == 0) {
 				map[x][y] = 2;
 				cnt++;
 			}
 			
 			for(int i = 0; i <4; i++) {
-				d -=1;
+				d -=1; // 왼쪽 방향 보기
 				if(d < 0) d+=4;
 				
 				int nx = x + X[d];
 				int ny = y + Y[d];
 				
+				//청소할 곳이 있다면 그곳을 바라본다.
 				if(map[nx][ny] == 0) {
 					x = nx;
 					y = ny;
@@ -61,6 +64,7 @@ public class Baek_14503_로봇청소기 {
 				}
 			}
 			
+			//청소할 곳이 없다면 방향유지한채로 후진
 			if(!check) {
 				int tdir = d -2;
 				if(tdir < 0) tdir+=4;
@@ -68,6 +72,7 @@ public class Baek_14503_로봇청소기 {
 				x = x + X[tdir];
 				y = y + Y[tdir];
 				
+				//후진 못하면 종료
 				if(map[x][y] == 1)
 					break;
 			}
