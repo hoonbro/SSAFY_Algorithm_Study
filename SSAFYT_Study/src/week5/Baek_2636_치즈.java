@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+//bfs
 public class Baek_2636_치즈 {
 	static int N, M, cheeze = 0, leftCheeze = 0;
 	static int[][] map;
