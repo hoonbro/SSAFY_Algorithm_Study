@@ -30,7 +30,7 @@ public class Baek_1107_리모컨 {
 		}
 
 		min = Math.min(Math.abs(100 - N), min);
-		for (int i = 0; i < 500000; i++) {
+		for (int i = 0; i < 1000000; i++) {
 			int len = search(i);
 			if (len != 0) {
 				len += Math.abs(N - i);
