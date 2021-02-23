@@ -98,8 +98,8 @@ public class Baek_17070_파이프_옮기기1 {
 		}
 
 		q.offer(new Pos(0, 1, 0, 0));
-		bfs();
-//		dfs(0, 1, 0);
+//		bfs();
+		dfs(0, 1, 0);
 		System.out.println(ans);
 	}
 }
