@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+//dp
 public class Baek_1038_감소하는_수 {
 	static int N;
 	public static void main(String[] args) throws NumberFormatException, IOException {
