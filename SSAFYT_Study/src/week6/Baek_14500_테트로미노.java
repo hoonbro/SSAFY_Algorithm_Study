@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+//dfs
 public class Baek_14500_테트로미노 {
 	static int N, M, max = -1;
 	static int[] X = { -1, 0, 1, 0 };
