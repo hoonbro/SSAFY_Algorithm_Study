@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Stack;
 
+//구현 stack
 public class Baek_17413_단어_뒤집기2 {
 	static String s;
 	static ArrayList<String> al;
