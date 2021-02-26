@@ -7,6 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+//bfs
 public class Baek_2562_나이트의_이동 {
 	static Queue<Pos> q;
 	static Pos target;
