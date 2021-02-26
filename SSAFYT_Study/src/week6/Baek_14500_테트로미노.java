@@ -31,7 +31,9 @@ public class Baek_14500_테트로미노 {
 		
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < M; j++) {
+				visited[i][j] = true;
 				dfs(i, j, 0, 0);
+				visited[i][j] = false;
 				plus(i, j);
 			}
 		}
