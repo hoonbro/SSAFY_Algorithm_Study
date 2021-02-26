@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+//이분 탐색
 public class Baek_1920_수찾기 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
