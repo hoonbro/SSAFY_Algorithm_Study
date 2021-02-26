@@ -38,6 +38,7 @@ public class Baek_14500_테트로미노 {
 		System.out.println(max);
 	}
 
+	//플러스 모양 빼고 싹다
 	static void dfs(int x, int y, int cnt, int sum) {
 		if (cnt == 4) {
 			max = Math.max(max, sum);
@@ -56,6 +57,7 @@ public class Baek_14500_테트로미노 {
 		}
 	}
 
+	//ㅗ모양
 	static void plus(int x, int y) {
 		int cnt = 1;
 		int sum = map[x][y];
