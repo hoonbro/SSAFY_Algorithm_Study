@@ -29,6 +29,7 @@ public class Baek_1915_가장_큰_정사각형 {
 			for(int j = 1; j <= M; j++) {
 				if(i == 1 && j == 1)
 					dp[i][j] = arr[i][j];
+				//1이고 내 왼쪽위, 왼쪽, 위쪽이 모두 같을 경우
 				if(arr[i-1][j] == 1 && arr[i-1][j] == arr[i-1][j-1] && arr[i-1][j-1] == arr[i][j-1]) 
 					dp[i][j] = Math.min(dp[i-1][j-1], Math.min(dp[i-1][j], dp[i][j-1]))+1;
 					
