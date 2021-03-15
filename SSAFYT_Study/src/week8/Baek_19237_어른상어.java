@@ -148,7 +148,6 @@ public class Baek_19237_어른상어 {
 		for (int i = 1; i <= M; i++) {
 			q.add(list.get(i-1));
 			priority[i] = Integer.parseInt(st.nextToken());
-
 		}
 
 		// 상어별 현재방향 우선순위
