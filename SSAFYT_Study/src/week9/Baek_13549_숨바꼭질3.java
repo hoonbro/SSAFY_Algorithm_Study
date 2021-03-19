@@ -7,8 +7,10 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
+//bfs를 사용할수 없는 경우에 대한 설명
+//https://www.acmicpc.net/board/view/38887
 public class Baek_13549_숨바꼭질3 {
-	static int X, K, minTime = 0;;
+	static int X, K, minTime = 0;
 	static int[] visited;
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
