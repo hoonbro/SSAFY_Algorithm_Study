@@ -1,4 +1,4 @@
-package week6;
+package week06;
 
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;

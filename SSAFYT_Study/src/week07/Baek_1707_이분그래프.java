@@ -1,4 +1,4 @@
-package week7;
+package week07;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
