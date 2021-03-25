@@ -1,4 +1,5 @@
 # Algorithm Study
+> :muscle:'하루에 한문제 이상 풀자!'
 ### 참고 사이트
 > [백준](https://www.acmicpc.net/)
 > 
@@ -8,4 +9,4 @@
 > 
 > [SWEA](https://swexpertacademy.com/)
 
-> '하루에 한문제 이상 풀자!'
+
