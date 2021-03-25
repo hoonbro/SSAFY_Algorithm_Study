@@ -1,4 +1,4 @@
-# [12865] 평범한배낭
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30"> [12865] 평범한배낭
 ## 문제 링크
 > https://www.acmicpc.net/problem/12865
 ## 알고리즘 분류
