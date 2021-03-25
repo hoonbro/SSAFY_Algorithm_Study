@@ -1,5 +1,7 @@
 # [12865] 평범한배낭
-## 분류
+## 문제 링크
+> https://www.acmicpc.net/problem/12865
+## 알고리즘 분류
 > DP
 
 ## 코드
@@ -39,6 +41,7 @@ public class Main{
 			products[i] = new Product(w, v);
 		}
 		
+		//1차원 배열을 사용한 0/1knapsack
 		int[] dp = new int[K+1];
 		for(int i = 0; i < N; i++) {
 			for(int j = K; j-products[i].weight >= 0; j--) {
