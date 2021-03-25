@@ -1,4 +1,4 @@
-# [1786] 찾기
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width="30"> [1786] 찾기
 ## 문제 링크
 > https://www.acmicpc.net/problem/1786
 ## 알고리즘 분류
