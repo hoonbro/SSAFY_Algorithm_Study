@@ -1,4 +1,4 @@
-# [11404] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30">플로이드
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30">[11404] 플로이드
 ## 문제 링크
 > https://www.acmicpc.net/problem/11404
 ## 알고리즘 분류
