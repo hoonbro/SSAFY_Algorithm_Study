@@ -1,4 +1,4 @@
-# [9251] LCS
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30"> [9251] LCS
 ## 문제 링크
 > https://www.acmicpc.net/problem/9251
 ## 알고리즘 분류
