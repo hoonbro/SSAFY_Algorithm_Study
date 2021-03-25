@@ -1,4 +1,4 @@
-# [1932] 정수삼각형
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="30"> [1932] 정수삼각형
 ## 문제 링크
 > https://www.acmicpc.net/problem/1932
 ## 알고리즘 분류
