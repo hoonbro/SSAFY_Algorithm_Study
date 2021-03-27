@@ -6,7 +6,7 @@
 
 ## 코드
 ```java
-package week10;
+package week10; 
 
 import java.io.BufferedReader;
 import java.io.IOException;
