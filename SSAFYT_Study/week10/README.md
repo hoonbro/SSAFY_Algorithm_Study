@@ -11,4 +11,4 @@
 |7|13335|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [트럭](https://www.acmicpc.net/problem/13335)|구현, 시뮬레이션|
 |8|1865|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [웜홀](https://www.acmicpc.net/problem/1865)|벨만포드| 
 |9|11660|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|DP| 
-|10|20061|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [모노미노도미노2](https://www.acmicpc.net/problem/20061)|구현,  | 
+|10|20061|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [모노미노도미노2](https://www.acmicpc.net/problem/20061)|구현, 시뮬레이션| 
