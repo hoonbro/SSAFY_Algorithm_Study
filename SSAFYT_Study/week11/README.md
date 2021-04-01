@@ -7,8 +7,8 @@
 |3|2565|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [전깃줄](https://www.acmicpc.net/problem/2565)|DP, LIS|
 |4|1238|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="12"> [파티](https://www.acmicpc.net/problem/1238)|다익스트라|
 |5|16916|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [부분 문자열](https://www.acmicpc.net/problem/16916)|KMP|
-|6|1520|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [내리막길](https://www.acmicpc.net/problem/1520)|| 
-|7|9935|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [문자열 폭발](https://www.acmicpc.net/problem/9935)||
-|8|1197|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|| 
+|6|1520|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [내리막길](https://www.acmicpc.net/problem/1520)|DP+DFS| 
+|7|9935|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [문자열 폭발](https://www.acmicpc.net/problem/9935)|Stack|
+|8|1197|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|크루스칼| 
 |9|16197|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [두 동전](https://www.acmicpc.net/problem/16197)|| 
 |10|1062|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [가르침](https://www.acmicpc.net/problem/1062)|| 
