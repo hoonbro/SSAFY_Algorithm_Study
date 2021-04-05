@@ -10,5 +10,5 @@
 |6|1520|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [내리막길](https://www.acmicpc.net/problem/1520)|DP+DFS| 
 |7|9935|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [문자열 폭발](https://www.acmicpc.net/problem/9935)|Stack|
 |8|1197|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|크루스칼| 
-|9|16197|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [두 동전](https://www.acmicpc.net/problem/16197)|| 
-|10|1062|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [가르침](https://www.acmicpc.net/problem/1062)|| 
+|9|16197|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [두 동전](https://www.acmicpc.net/problem/16197)|BFS| 
+|10|1062|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [가르침](https://www.acmicpc.net/problem/1062)|조합|
