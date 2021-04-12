@@ -1,4 +1,4 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30"> [11657] 타임머신
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> [11657] 타임머신
 ## 문제 링크
 > https://www.acmicpc.net/problem/11657
 ## 알고리즘 분류
