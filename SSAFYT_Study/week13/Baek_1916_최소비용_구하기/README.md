@@ -2,7 +2,7 @@
 ## 문제 링크
 > https://www.acmicpc.net/problem/1916
 ## 알고리즘 분류
-> 구현, 시뮬레이션
+> 
 
 ## 코드
 ```java
