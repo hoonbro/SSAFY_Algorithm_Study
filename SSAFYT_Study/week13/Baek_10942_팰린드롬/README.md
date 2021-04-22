@@ -1,4 +1,4 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="30"> [10942] 팰린드롬
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="30"> [10942] 팰린드롬
 ## 문제 링크
 > https://www.acmicpc.net/problem/10942
 ## 알고리즘 분류
