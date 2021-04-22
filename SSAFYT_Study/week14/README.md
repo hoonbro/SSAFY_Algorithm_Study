@@ -4,8 +4,10 @@
 - ##### 2021.04.19 ~ 2021.04.25
  
 #### ✏️스터디 문제
+- ##### [공통 문제 7 ~ 10개](https://www.acmicpc.net/group/workbook/view/10018/32875)
 
-### [백준 문제 목록](https://www.acmicpc.net/group/workbook/view/10018/32875)
+
+### [백준 문제 목록]
 |No.|문제 번호|문제 이름|알고리즘 분류|
 |:---:|:---:|:---|:---:| 
 |1|1405|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="12"> [미친 로봇](https://www.acmicpc.net/problem/1405)|| 
