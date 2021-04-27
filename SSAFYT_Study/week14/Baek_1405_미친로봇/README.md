@@ -1,5 +1,5 @@
 # <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30"> [1405] 미친 로봇
-> https://www.acmicpc.net/problem/2933
+> https://www.acmicpc.net/problem/1405
 ## 알고리즘 분류
 > DFS, 백트래킹
 
