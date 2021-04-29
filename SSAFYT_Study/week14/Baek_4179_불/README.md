@@ -1,4 +1,4 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30"> [4179] 불!
+# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> [4179] 불!
 > https://www.acmicpc.net/problem/4179
 ## 알고리즘 분류
 > BFS
