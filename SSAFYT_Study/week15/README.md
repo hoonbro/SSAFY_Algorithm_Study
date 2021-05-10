@@ -12,5 +12,5 @@
 |3|60058|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|문자열|
 |4|72411|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|문자열, 조합|
 |5|72412|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|이분탐색, SusSet|
-|6||[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|완전 탐색| 
-|7||[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)|트라이 구조|
+|6|72412|[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|완전 탐색| 
+|7|60060|[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)|트라이 구조|
