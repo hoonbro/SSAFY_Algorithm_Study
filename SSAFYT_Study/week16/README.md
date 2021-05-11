@@ -6,7 +6,7 @@
 
 ### ✏️ [프로그래머스 문제 목록]
 |No.|문제 번호|문제 이름|알고리즘 분류|
-|:---:|:---:|:---|:---:| 
+|:---:|:---:|:---|:---:|
 |1|67256|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|구현| 
 |2|67257|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|순열| 
 |3|67258|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|Set, Map 자료구조|
