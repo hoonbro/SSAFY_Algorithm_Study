@@ -13,4 +13,4 @@
 |4|2096|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [내려가기](https://www.acmicpc.net/problem/2096)|DP, 슬라이딩 윈도우|
 |5|1005|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="12"> [ACM Craft](https://www.acmicpc.net/problem/1005)|위상 정렬|
 |6|17780|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [새로운 게임](https://www.acmicpc.net/problem/17780)|구현, 시뮬레이션|
-|7|15732|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [도토리 숨기기](https://www.acmicpc.net/problem/15732)||
+|7|15732|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [도토리 숨기기](https://www.acmicpc.net/problem/15732)|이분탐색|
