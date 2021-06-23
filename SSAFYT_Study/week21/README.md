@@ -13,4 +13,4 @@
 |4|1800|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [인터넷 설치](https://www.acmicpc.net/problem/2096)|이분탐색, 다익스트라|
 |5|7579|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="12"> [앱](https://www.acmicpc.net/problem/1005)|DP, 배낭문제|
 |6|16724|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [피리 부는 사나이](https://www.acmicpc.net/problem/17780)||
-|7|2098|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width="12"> [외판원 순회](https://www.acmicpc.net/problem/15732)||
+|7|2098|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width="12"> [외판원 순회](https://www.acmicpc.net/problem/15732)|외판원 순회 문제|
