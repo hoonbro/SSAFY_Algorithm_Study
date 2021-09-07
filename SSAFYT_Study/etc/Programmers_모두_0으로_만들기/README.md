@@ -1,4 +1,4 @@
-# [Level2] 모두 0으로 만들기
+# [Level3] 모두 0으로 만들기
 ## 문제 링크
 > https://programmers.co.kr/learn/courses/30/lessons/76503
 ## 알고리즘 분류
