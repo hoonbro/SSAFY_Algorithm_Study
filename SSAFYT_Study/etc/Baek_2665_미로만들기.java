@@ -27,7 +27,7 @@ public class Baek_2665_미로만들기 {
 		
 		bfs();
 	}
-	
+	 
 	static void bfs() {
 		PriorityQueue<Pos> pq = new PriorityQueue<>();
 		pq.offer(new Pos(0,0,0));
