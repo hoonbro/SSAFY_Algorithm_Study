@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 
-public class Baek_2665_미로만들기 {
+public class Baek_2665_미로만들기 { 
 	static int[][] map;
 	static boolean[][] visited;
 	static int N;
