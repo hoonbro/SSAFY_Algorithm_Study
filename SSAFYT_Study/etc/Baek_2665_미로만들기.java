@@ -64,7 +64,6 @@ public class Baek_2665_미로만들기 {
 		int x, y, change;
 
 		public Pos(int x, int y, int change) {
-			super();
 			this.x = x;
 			this.y = y;
 			this.change = change;
