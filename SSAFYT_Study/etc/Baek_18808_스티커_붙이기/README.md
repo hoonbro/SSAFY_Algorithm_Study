@@ -46,7 +46,6 @@ public class Baek_18808_스티커_붙이기 {
 		int r = sticker.length;
 		int c = sticker[0].length;
 		
-		
 		for (int d = 0; d < 4; d++) {
 			if(d != 0)
 				sticker = rotate(sticker, r, c);
