@@ -1,5 +1,5 @@
 # <img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="30"> [1938] 통나무 옮기기
-> https://www.acmicpc.net/problem/1938
+> https://www.acmicpc.net/problem/1938 
 ## 알고리즘 분류
 > 그래프 탐색, BFS
 
