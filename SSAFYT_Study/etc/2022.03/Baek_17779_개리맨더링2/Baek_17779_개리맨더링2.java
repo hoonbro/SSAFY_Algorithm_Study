@@ -1,10 +1,5 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="30"> [17779] 개리맨더링2
-> https://www.acmicpc.net/problem/17779
-## 알고리즘 분류
-> 구현, 시뮬레이션
+package etc._2022_03;
 
-## 코드
-```java
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -129,7 +124,3 @@ public class Baek_17779_개리맨더링2 {
 		}
 	}
 }
-```
-
-## 문제 풀이
-1. 삼성 코딩테스트 기출문제로 주어진 조건을 만족하는 시뮬레이션을 코딩하면 해결
