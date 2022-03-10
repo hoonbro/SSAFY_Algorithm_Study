@@ -1,10 +1,5 @@
-# <img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="30"> [21609] 상어 중학교
-> https://www.acmicpc.net/problem/21609
-## 알고리즘 분류
-> 구현, 시뮬레이션
+package etc._2022_03;
 
-## 코드
-```java
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -201,7 +196,3 @@ public class Baek_21609_상어중학교 {
 		}
 	}
 }
-```
-
-## 문제 풀이
-1. 삼성 코딩테스트 기출문제로 주어진 조건을 만족하는 시뮬레이션을 코딩하면 해결
