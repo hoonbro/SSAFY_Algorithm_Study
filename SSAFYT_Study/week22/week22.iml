@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1644_소수의_연속합" isTestSource="false" packagePrefix="week22" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1766_문제집" isTestSource="false" packagePrefix="week22" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2166_다각형의_면적" isTestSource="false" packagePrefix="week22" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

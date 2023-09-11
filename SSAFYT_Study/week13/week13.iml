@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_10942_팰린드롬" isTestSource="false" packagePrefix="week13" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_14719_빗물" isTestSource="false" packagePrefix="week13" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16562_친구비" isTestSource="false" packagePrefix="week13" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_17281_ ⚾" isTestSource="false" packagePrefix="week13" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_18428_감시_피하기" isTestSource="false" packagePrefix="week13" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1916_최소비용_구하기" isTestSource="false" packagePrefix="week13" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2933_미네랄" isTestSource="false" packagePrefix="week13" />
+      <sourceFolder url="file://$MODULE_DIR$/추가적으로 푼 문제" isTestSource="false" packagePrefix="week13.추가" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

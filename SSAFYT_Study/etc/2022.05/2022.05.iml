@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_10836_여왕벌" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_11085_군사_이동" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_13168_내일로_여행" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_13422_도둑" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_13904_과제" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1599_민식어" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16719_ZOAC" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_17404_RGB거리2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2186_문자판" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2343_기타_레슨" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2528_사다리" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2571_색종이3" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_3425_고스택" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_5549_행성_탐사" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_9177_단어_섞기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_숫자_문자열과_영단어" isTestSource="false" packagePrefix="etc._2022_05" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_표_편집" isTestSource="false" packagePrefix="etc._2022_05" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

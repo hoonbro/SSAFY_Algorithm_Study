@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_14925_목장_건설하기" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1593_문자_해독" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16234_인구_이동" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16235_나무_재테크" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16988_Baaaaaaaaaduk2" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_17140_이차원_배열과_연산" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_17179_케이크_자르기" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1719_택배" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_17398_통신망_분할" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_17779_개리맨더링2" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_19238_스타트_택시" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2056_작업" isTestSource="false" packagePrefix="etc._2022_02" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2109_순회강연" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_21609_상어중학교" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2211_네트워크복구" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2212_센서" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_3079_입국심사" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_4195_친구_네트워크" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_4991_로봇_청소기" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_5913_준규와사과" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_6497_전력난" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_블록_이동하기" isTestSource="false" packagePrefix="etc._2022_03" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_후보키" isTestSource="false" packagePrefix="etc._2022_03" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

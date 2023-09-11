@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1062_가르침" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_11780_플로이드2" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1197_최소_스패닝_트리" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1238_파티" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1520_내리막길" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16197_두_동전" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16916_부분문자열" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_17069_파이프_옮기기2" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2565_전깃줄" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_9935_문자열폭발" isTestSource="false" packagePrefix="week11" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_9935_문자열폭발_Stack" isTestSource="false" packagePrefix="week11" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

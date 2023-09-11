@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_12869_뮤탈리스크" isTestSource="false" packagePrefix="etc._2022_06" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_13424_비밀_모임" isTestSource="false" packagePrefix="etc._2022_06" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1577_도로의_개수" isTestSource="false" packagePrefix="etc._2022_06" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_17298_오큰수" isTestSource="false" packagePrefix="etc._2022_06" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_18430_무기_공학" isTestSource="false" packagePrefix="etc._2022_06" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2437_저울" isTestSource="false" packagePrefix="etc._2022_06" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2469_사다리_타기" isTestSource="false" packagePrefix="etc._2022_06" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_5582_공통_부분_문자열" isTestSource="false" packagePrefix="etc._2022_06" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_124_나라의_숫자" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_멀쩡한_사각형" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_베스트앨범" isTestSource="false" packagePrefix="etc._2022_06" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_풍선_터뜨리기" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

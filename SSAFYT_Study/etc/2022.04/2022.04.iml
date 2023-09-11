@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_10423_전기가_부족해" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_11509_풍선_맞추기" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_13397_구간_나누기2" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1443_망가진_계산기" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1507_궁금한_민호" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_15811_복면산" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1613_역사" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16681_등산" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1717_집합의_표현" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_17244_아맞다우산" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2174_로봇_시뮬레이션" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_5014_스타트링크" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_5427_불" isTestSource="false" packagePrefix="etc._2022_04" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_9470_Strahler순서" isTestSource="false" packagePrefix="etc._2022_04" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

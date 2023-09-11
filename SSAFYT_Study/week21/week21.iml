@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1300_K번째수" isTestSource="false" packagePrefix="week21" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_14938_서강그라운드" isTestSource="false" packagePrefix="week21" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16724_피리부는_사나이" isTestSource="false" packagePrefix="week21" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1800_인터넷_설치" isTestSource="false" packagePrefix="week21" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2473_세용액" isTestSource="false" packagePrefix="week21" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_7579_앱" isTestSource="false" packagePrefix="week21" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1806_부분합" isTestSource="false" packagePrefix="week17" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_2023_신기한_소수" isTestSource="false" packagePrefix="week17" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_7453_합이_0인_네정수" isTestSource="false" packagePrefix="week17" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_다단계_칫솔_판매" isTestSource="false" packagePrefix="week17" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_로또의_최고순위와_최저순위" isTestSource="false" packagePrefix="week17" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers_행렬_테두리_회전하기" isTestSource="false" packagePrefix="week17" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

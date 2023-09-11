@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Baek_11404_플로이드" isTestSource="false" packagePrefix="week10" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_11660_구간합_구하기5" isTestSource="false" packagePrefix="week10" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_12865_평범한배낭" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_13335_트럭" isTestSource="false" packagePrefix="week10" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_16918_봄버맨" isTestSource="false" packagePrefix="week10" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1786_찾기" isTestSource="false" packagePrefix="week10" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1865_웜홀" isTestSource="false" packagePrefix="week10" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_1932_정수삼각형" isTestSource="false" packagePrefix="week10" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_20061_모노미노도미노2" isTestSource="false" packagePrefix="week10" />
+      <sourceFolder url="file://$MODULE_DIR$/Baek_9251_LCS" isTestSource="false" packagePrefix="week10" />
+      <sourceFolder url="file://$MODULE_DIR$/etc" isTestSource="false" packagePrefix="week10" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
